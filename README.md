@@ -8,13 +8,13 @@
 <br>
 
 ## 💭About me
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
+-I'm 28 years old, and I recently live in Buenos Aires, Argentina.
+-I was always interested in technology and website design.
 
-- A full-stack developer.
-- I’m currently open for a new job opportunity
+-I am very motivated by everything related to the web, and working with people. My goals are to keep learning as much as I can, satisfying my curiosity, as well as to develop personal projects for myself and to collaborate with people in my community in their own personal goals.
+
+-I’m currently learning typescript.
 
 <br><br>
 
