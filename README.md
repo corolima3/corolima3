@@ -9,12 +9,12 @@
 
 ## 💭About me
 <br>
--I'm 28 years old, and I recently live in Buenos Aires, Argentina.
--I was always interested in technology and website design.
+- I'm 28 years old, and I recently live in Buenos Aires, Argentina.![aboutMe](https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/programming.svg)
+- I was always interested in technology and website design.
 
--I am very motivated by everything related to the web, and working with people. My goals are to keep learning as much as I can, satisfying my curiosity, as well as to develop personal projects for myself and to collaborate with people in my community in their own personal goals.
+- I am very motivated by everything related to the web, and working with people. My goals are to keep learning as much as I can, satisfying my curiosity, as well as to develop personal projects for myself and to collaborate with people in my community in their own personal goals.
 
--I’m currently learning typescript.
+- I’m currently learning typescript.
 
 <br><br>
 
@@ -68,6 +68,6 @@
 
 <br>
 
-<a href="colocar url a correo" target="_blank">
+<a href="mailto:josecorolima@gmail.com" target="_blank">
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
