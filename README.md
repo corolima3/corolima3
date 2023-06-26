@@ -8,10 +8,11 @@
 <br>
 
 ## 💭About me
-<picture> <img align="right" src="https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/programming.svg" width ="80" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/programming.svg" width = 250px></picture>
 
 
 <br>
+
 - I'm 28 years old, and I recently live in Buenos Aires, Argentina.
 
 - I was always interested in technology and website design.
