@@ -13,13 +13,11 @@
 
 <br>
 
-- I'm 28 years old, and I recently live in Buenos Aires, Argentina.
-
-- I was always interested in technology and website design.
+- I'm 28 years old, and I live in Buenos Aires, Argentina.
 
 - I am very motivated by everything related to the web, and working with people. My goals are to keep learning as much as I can, satisfying my curiosity, as well as to develop personal projects for myself and to collaborate with people in my community in their own personal goals.
 
-- I’m currently learning typescript.
+- Currently, I’m learning typescript.
 
 <br><br>
 
